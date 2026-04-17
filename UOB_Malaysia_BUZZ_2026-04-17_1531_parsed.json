@@ -1,0 +1,257 @@
+{
+  "brand": "UOB Malaysia",
+  "generated_at": "2026-04-17T15:36:16.870279",
+  "period_start": "2026-03-18",
+  "period_end": "2026-04-17",
+  "sources_monitored": [
+    "Lowyat",
+    "Reddit r/MalaysianPF",
+    "UOB Malaysia official pages",
+    "Facebook public comments (limited access)"
+  ],
+  "total_topics": 6,
+  "topics": [
+    {
+      "id": 1,
+      "theme": "Payments / digital wallets",
+      "title": "Apple Pay gap is pushing users off UOB cards",
+      "hotness": 8,
+      "hotness_rationale": "A single megathread is producing repeated posts and follow-ups, with at least 10 fresh mentions in early April and a same-day update on Apr 17.",
+      "sentiment": "negative",
+      "sentiment_score": -0.8,
+      "summary": "Users still see UOB cards as solid, but the lack of Apple Pay in Malaysia is causing daily spend to move elsewhere and leaving UOB only for niche perks.",
+      "key_complaints": [
+        "No Apple Pay support in Malaysia",
+        "Daily spend is shifting to other banks",
+        "Primary card usage is dropping"
+      ],
+      "key_praises": [
+        "Cards are still seen as solid overall",
+        "Niche perks like lounge access still matter"
+      ],
+      "representative_quotes": [
+        {
+          "text": "It was my primary card, but I stopped using it since they do not have Apple Pay.",
+          "source": "https://forum.lowyat.net/topic/4527718/last"
+        },
+        {
+          "text": "All my other banks support Apple Pay; now I use UOB just for lounge.",
+          "source": "https://forum.lowyat.net/topic/4527718/last"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Lowyat",
+          "url": "https://forum.lowyat.net/topic/4527718/last"
+        }
+      ],
+      "tags": [
+        "Apple Pay",
+        "digital wallets",
+        "card churn",
+        "daily spend",
+        "contactless payments"
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "Card fees and waivers",
+      "title": "Annual fee waiver thresholds and SMS nudges feel inconsistent",
+      "hotness": 7,
+      "hotness_rationale": "The topic recurs across several April posts and ties into an official May 6 T&C change, making it broadly relevant to many cardholders.",
+      "sentiment": "mixed",
+      "sentiment_score": -0.1,
+      "summary": "Cardholders compare SMS reminders, fee-waiver outcomes, and the new spend-led waiver mechanics, with some frustration over unclear thresholds and some relief when waivers are granted.",
+      "key_complaints": [
+        "Spend thresholds feel inconsistent across notices",
+        "SMS nudges and actual outcomes do not always match",
+        "T&C revisions add confusion"
+      ],
+      "key_praises": [
+        "Some users received waivers even when short",
+        "Official disclosures make the spend-to-waive rule explicit"
+      ],
+      "representative_quotes": [
+        {
+          "text": "I got a SMS in Feb that I still need RM5k before end May to qualify for the waiver.",
+          "source": "https://forum.lowyat.net/topic/4527718/last"
+        },
+        {
+          "text": "~Effective 6 May 2026, spend-led waiver with Annual Retail Spend Requirement of RM20,000.",
+          "source": "https://forum.lowyat.net/topic/4527718/last"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Lowyat",
+          "url": "https://forum.lowyat.net/topic/4527718/last"
+        },
+        {
+          "platform": "UOB Malaysia",
+          "url": "https://www.uob.com.my/assets/web-resources/personal/pdf/useful/product-disclosure-sheet-credit-commercial-card-eng.pdf"
+        }
+      ],
+      "tags": [
+        "annual fee",
+        "waiver",
+        "SMS reminder",
+        "spend threshold",
+        "T&C update",
+        "Lazada UOB Card"
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "EVOL cashback rules",
+      "title": "EVOL cashback is tracked by calendar month, not statement cycle",
+      "hotness": 4,
+      "hotness_rationale": "This is a small but recurring Q&A thread with low reply volume; useful information, but not a major buzz driver.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "summary": "A practical clarification reassured users that EVOL cashback eligibility follows calendar-month spending and pays out the following month, not the statement cycle.",
+      "key_complaints": [
+        "Confusion about whether overpaying affects cashback",
+        "Users are unsure how the card tracks eligibility"
+      ],
+      "key_praises": [
+        "Calendar-month tracking was clarified",
+        "The payout timing was explained clearly"
+      ],
+      "representative_quotes": [
+        {
+          "text": "CB eligibility is not tied to statement date; tracked by calendar month; credited the following month.",
+          "source": "https://forum.lowyat.net/topic/4527718/last"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Lowyat",
+          "url": "https://forum.lowyat.net/topic/4527718/last"
+        }
+      ],
+      "tags": [
+        "EVOL Card",
+        "cashback",
+        "eligibility",
+        "calendar month",
+        "statement cycle"
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "Application onboarding",
+      "title": "Fresh grad worries about accidental EVOL application at a mall popup",
+      "hotness": 2,
+      "hotness_rationale": "A single Reddit post with a handful of replies and low upvotes; helpful for first-timers, but not widely discussed.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.05,
+      "summary": "A first-time applicant who clicked through a mall popup worried about retracting the UOB EVOL application and whether rejection would hurt credit score; replies said to let it process and skip activation if not needed.",
+      "key_complaints": [
+        "Accidental popup application",
+        "Uncertainty about credit score impact"
+      ],
+      "key_praises": [
+        "Community said the application can simply be left unactivated if approved",
+        "Replies reduced first-timer anxiety"
+      ],
+      "representative_quotes": [
+        {
+          "text": "I somehow 'applied' for the UOB EVOL Card at a popup... how do I retract?",
+          "source": "https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/"
+        },
+        {
+          "text": "If approved and don't want to use just don't activate.",
+          "source": "https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Reddit",
+          "url": "https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/"
+        }
+      ],
+      "tags": [
+        "EVOL Card",
+        "application",
+        "fresh graduate",
+        "credit score",
+        "popup signup"
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "Savings account usability",
+      "title": "UOB One Account feels too task-heavy for elderly savers",
+      "hotness": 3,
+      "hotness_rationale": "This is a modest-engagement Reddit discussion, useful for product fit questions but not a high-volume topic.",
+      "sentiment": "negative",
+      "sentiment_score": -0.35,
+      "summary": "In a high-yield savings comparison, commenters felt UOB One Account requires too many monthly tasks for an elderly person and suggested simpler alternatives.",
+      "key_complaints": [
+        "Too many monthly 'quests'",
+        "Not friendly for elderly or less tech-inclined savers"
+      ],
+      "key_praises": [],
+      "representative_quotes": [
+        {
+          "text": "Checked out UOB One account, too many monthly 'quests' to do for an elderly person.",
+          "source": "https://www.reddit.com/r/MalaysianPF/comments/1rpvvcq/optimum_hassle_free_hysa/"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Reddit",
+          "url": "https://www.reddit.com/r/MalaysianPF/comments/1rpvvcq/optimum_hassle_free_hysa/"
+        }
+      ],
+      "tags": [
+        "UOB One Account",
+        "HYSA",
+        "elderly savers",
+        "usability",
+        "quests"
+      ]
+    },
+    {
+      "id": 6,
+      "theme": "Policy updates and disclosures",
+      "title": "Users are circulating official UOB fee and T&C updates",
+      "hotness": 6,
+      "hotness_rationale": "PSA-style sharing of official links keeps the megathread current on fee and waiver changes, with broad relevance even if the volume is moderate.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "summary": "Users are posting official UOB links and warning others about fee and waiver changes, helping the community stay current on policy shifts.",
+      "key_complaints": [
+        "Frequent fee and T&C changes create uncertainty"
+      ],
+      "key_praises": [
+        "Official disclosures are linked for verification",
+        "Policy updates are easy to share in-thread"
+      ],
+      "representative_quotes": [
+        {
+          "text": "~Revision... effective 6 May 2026... spend-led waiver... RM20,000.",
+          "source": "https://forum.lowyat.net/topic/4527718/last"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Lowyat",
+          "url": "https://forum.lowyat.net/topic/4527718/last"
+        },
+        {
+          "platform": "UOB Malaysia",
+          "url": "https://www.uob.com.my/assets/web-resources/personal/pdf/useful/product-disclosure-sheet-credit-commercial-card-eng.pdf"
+        }
+      ],
+      "tags": [
+        "fees",
+        "T&C update",
+        "annual fee waiver",
+        "official notice",
+        "policy change"
+      ]
+    }
+  ],
+  "analyst_notes": "Lowyat's UOB Credit Cards v9 thread drove most of the volume. The strongest negative theme is Apple Pay absence, followed by fee-waiver confusion and T&C updates. Reddit discussions were smaller and mostly practical, centered on EVOL onboarding and UOB One Account usability. Facebook public comments were largely inaccessible, so the report is anchored in Lowyat, Reddit, and official UOB pages."
+}

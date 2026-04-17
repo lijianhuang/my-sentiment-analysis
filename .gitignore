@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+crawls/*.txt
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+".env" 
+"__pycache__/" 
+".streamlit/" 
+"*.pyc" 
+.env

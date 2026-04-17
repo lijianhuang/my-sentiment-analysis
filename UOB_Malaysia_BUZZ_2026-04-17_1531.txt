@@ -1,0 +1,68 @@
+Buzzing Topics Report: UOB Malaysia
+Generated: 2026-04-17 15:36:16.870279
+============================================================
+
+Here’s what real users in Malaysia have been saying about UOB Malaysia between March 18, 2026 and today (Friday, April 17, 2026). I focused on active threads on Lowyat and Reddit’s Malaysian finance communities; Facebook public comments were largely inaccessible for scraping this week, so I’ve noted that gap at the end.
+
+Topic 1: Friction from no Apple Pay support is driving usage drop or churn
+- Where/when: Lowyat “UOB Credit Cards v9” thread; posts on April 4, 2026 and a follow‑up reply the same day. Multiple posts in this thread reference Apple Pay during Apr 1–8, plus a T&C update post today (Apr 17). ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- What people discussed: Several users said UOB cards remain solid overall, but lack of Apple Pay in Malaysia is now a deal‑breaker for daily spend. Some have shifted everyday payments to banks that support Apple Pay and keep UOB only for niche perks (e.g., lounge access). ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Sentiment/buzz: Mostly negative toward the gap; medium buzz. At least 10 fresh posts appeared Apr 1–8 on the last page of the megathread, including multiple Apple Pay mentions, plus a “Today” update in the same thread. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Representative quotes:
+  - “It was my primary card, but I stopped using it since they do not have Apple Pay.” ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+  - “All my other banks support Apple Pay; now I use UOB just for lounge.” ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+
+Topic 2: Annual fee waiver thresholds and SMS nudges (perceived inconsistency)
+- Where/when: Lowyat “UOB Credit Cards v9”; posts on Apr 1, 4, and 7, 2026; plus a post today (Apr 17) sharing a UOB site update for Lazada UOB Card waiver mechanics. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- What people discussed: 
+  - Users compared experiences receiving SMS reminders to hit annual spend for fee waivers (e.g., “need RM5k more before end‑May”), and at least one reported receiving an annual fee waiver despite not fully meeting the communicated spend target. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+  - A post today flagged UOB’s revision to Lazada UOB Card T&Cs effective May 6, 2026, noting “spend‑led waiver” with an annual retail spend requirement of RM20,000 (user linked UOB pages). UOB’s own Product Disclosure Sheet and Annual Fee pages list spend‑to‑waive thresholds by card (commonly RM20,000 for selected cards). ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Sentiment/buzz: Mixed sentiment (some frustration over unclear thresholds vs. relief when waived); medium‑high buzz because it affects many cardholders and intersects with Apple Pay gripes. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Representative quotes:
+  - “I got a SMS in Feb that I still need RM5k before end May to qualify for the waiver.” ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+  - “SMS… said AF has been waived… still short.” ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+  - “Effective 6 May 2026, spend‑led waiver with Annual Retail Spend Requirement of RM20,000.” ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+
+Topic 3: EVOL Card cashback tracking — month vs statement cycle
+- Where/when: Lowyat “UOB Credit Cards v9”; Q&A on Apr 7–8, 2026. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- What people discussed: A user asked whether overpaying via BT and lowering the statement balance would jeopardize EVOL cashback eligibility. A veteran member clarified that EVOL tracks cashback by calendar month spend (not statement cycle) and pays out the following month. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Sentiment/buzz: Neutral/informational; low‑to‑medium buzz but practical (recurring confusion topic).
+- Representative quote:
+  - “CB eligibility is not tied to statement date; tracked by calendar month; credited the following month.” ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+
+Topic 4: “I accidentally signed up at a pop‑up” — EVOL application anxiety among first‑timers
+- Where/when: Reddit r/MalaysianPF thread posted Apr 15, 2026. ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/))
+- What people discussed: A fresh grad “somehow applied” for UOB EVOL at a mall popup and asked how to retract the application and whether rejection hurts credit score. Replies advised to let the process run, then simply not activate if not needed. ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/))
+- Sentiment/buzz: Concerned but calm; low buzz (4 upvotes; a handful of replies).
+- Representative quotes (Reddit):
+  - “I somehow ‘applied’ for the UOB EVOL Card at a popup… how do I retract?” ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/))
+  - “If approved and don’t want to use just don’t activate.” ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/))
+
+Topic 5: UOB One Account perceived as too “mission‑based” for elderly savers
+- Where/when: Reddit r/MalaysianPF thread posted Mar 19, 2026 (“Optimum hassle free HYSA?”). ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1rpvvcq/optimum_hassle_free_hysa/))
+- What people discussed: The OP evaluated HYSA options for an elderly person and dismissed UOB One Account as having “too many monthly ‘quests’.” Commenters suggested simpler alternatives (e.g., MMFs), underscoring that the “tasks” model can be off‑putting to less tech‑inclined users. ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1rpvvcq/optimum_hassle_free_hysa/))
+- Sentiment/buzz: Mildly negative toward task‑based savings; modest engagement.
+- Representative quote (Reddit):
+  - “Checked out UOB One account, too many monthly ‘quests’ to do for an elderly person.” ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1rpvvcq/optimum_hassle_free_hysa/))
+
+Topic 6: Heads‑up circulating on card T&C/fees structure changes
+- Where/when: Lowyat post today (Apr 17, 2026) sharing UOB links; supporting UOB pages show current fee/waiver structures and credit‑card disclosures updated in 2026. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- What people discussed: Users actively share official links (e.g., PDS, fees/annual‑fee pages) and highlight upcoming or recent adjustments affecting waivers and fees. This “PSA” behavior keeps the megathread current on policy shifts. ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Sentiment/buzz: Neutral; medium buzz due to broad relevance.
+- Representative “quote” (thread post summarizing official link):
+  - “Revision… effective 6 May 2026… spend‑led waiver… RM20,000.” (with official UOB links in the post) ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+
+Additional context (outside pure user chatter but relevant to why people are asking):
+- UOB’s own PDS/fees pages reflect 2026‑dated structures (e.g., annual spend thresholds for waivers; cash advance fee effective Jan 1, 2026). Users in the threads often cite or mirror these details when comparing their SMS nudges and actual waivers. ([uob.com.my](https://www.uob.com.my/assets/web-resources/personal/pdf/useful/product-disclosure-sheet-credit-commercial-card-eng.pdf))
+
+What I could not access well this week
+- Facebook: Public comment threads on UOB Malaysia’s official page or large finance groups were difficult to fetch reliably; the platform blocked most direct loads from search results. I therefore anchored findings in Lowyat and Reddit, which had multiple on‑date discussions. If you want, I can run a manual capture of specific public FB posts (e.g., from UOB Malaysia’s page) you nominate, and quantify reactions/comments within a set window.
+
+If you want me to go deeper
+- I can quantify Lowyat “UOB Credit Cards v9” activity across the whole Mar 18–Apr 17 window (post counts, unique users) and extract more quotes tied to dates. I can also track new Reddit posts for EVOL/One Account over the next 1–2 weeks and alert on any Apple Pay‑related change chatter.
+
+Sources
+- Lowyat “UOB Credit Cards v9” last page (posts dated Apr 1–8, 2026 and Today, Apr 17, 2026). ([forum.lowyat.net](https://forum.lowyat.net/topic/4527718/last))
+- Reddit r/MalaysianPF: “Credit Card Application as a fresh grad earning 4k – UOB EVOL Card” (Apr 15, 2026). ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1sm17xn/credit_card_application_as_a_fresh_grade_earning/))
+- Reddit r/MalaysianPF: “Optimum hassle free HYSA?” (Mar 19, 2026). ([reddit.com](https://www.reddit.com/r/MalaysianPF/comments/1rpvvcq/optimum_hassle_free_hysa/))
+- UOB Malaysia official pages supporting fee/waiver structures and disclosures (2026‑dated): Product Disclosure Sheet; Fees & Charges. ([uob.com.my](https://www.uob.com.my/assets/web-resources/personal/pdf/useful/product-disclosure-sheet-credit-commercial-card-eng.pdf))
