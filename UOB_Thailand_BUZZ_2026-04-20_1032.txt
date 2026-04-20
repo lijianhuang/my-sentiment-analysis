@@ -1,0 +1,65 @@
+Buzzing Topics Report: UOB Thailand
+Generated: 2026-04-20 10:37:10.877805
+============================================================
+
+Time window checked: March 21, 2026–April 20, 2026 (Thailand time)
+
+Where we looked
+- Pantip: Bank/Credit Card tags (search across “ธนาคารยูโอบี / UOB / บัตรเครดิต UOB”).
+- Reddit: r/Thailand and r/Bangkok finance/credit-card discussions.
+- Thai finance blogs: ChaiMiles, Money Buffalo.
+- Facebook groups named by you: “พวกเราคือผู้ประสบภัยจาก UOB” and “คนรักบัตรเครดิต” (publicly visible posts only; most content appears members-only).
+- Note: In this 30‑day window there was very little new, user‑generated discussion about UOB Thailand on Pantip and Reddit. What we did find that’s within the window is mainly blog/press-style information and one public promo update. I’ve flagged user‑discussion scarcity and separated “blog/news” vs “user forum” signals below.
+
+Topics seen in the last 30 days
+
+1) Dining promo cycle: UOB x CRG “Happy Payday” buy‑1‑get‑1 (monthly on the 30th, through July 2026)
+- What people are talking about
+  - Finance news/blogs and deal pages highlighted UOB’s continuation of a buy‑1‑get‑1 dining campaign with Central Restaurants Group brands on the 30th of each month (Feb–Jul 2026). Details include participating brands and the bank’s target to grow dining spend by 5% this year. Direct user chatter on forums in the last 30 days is limited, but the offer is being circulated ahead of each cycle date. ([wealthythai.com](https://www.wealthythai.com/updates/banking/46000?utm_source=openai))
+- Sentiment and heat
+  - Sentiment: neutral to mildly positive (deal awareness; no visible backlash).
+  - Buzzness: low to moderate (picked up by finance press; limited forum engagement observed during this period).
+- Representative quote (translated to English)
+  - “UOB continues ‘Happy Payday’ with buy‑one‑get‑one every 30th of the month with CRG, targeting +5% dining spend in 2026.” ([wealthythai.com](https://www.wealthythai.com/updates/banking/46000?utm_source=openai))
+
+2) Airport dining privileges update: Starbucks added (Burger King removed); benefits valid through December 31, 2026
+- What people are talking about
+  - Miles/credit‑card blog coverage notes that UOB/TMRW cardholders still get free airport F&B at BKK/DMK, with Starbucks replacing Burger King from February 1, 2026; McDonald’s and Subway remain. This has been referenced in the past month by deal/miles watchers and remains relevant for Songkran travel. Direct forum discussion in the last 30 days is light. ([chaimiles.com](https://www.chaimiles.com/p/uob-airport-privilege.html?utm_source=openai))
+- Sentiment and heat
+  - Sentiment: mixed‑positive (perk still exists; some readers note brand swap and quota/conditions).
+  - Buzzness: low (blog/reference posts; no sizable Pantip/Reddit thread this month).
+- Representative quote (translated to English)
+  - “In 2026, Starbucks replaces Burger King; McDonald’s and Subway continue; benefit runs until December 31, 2026.” ([chaimiles.com](https://www.chaimiles.com/p/uob-airport-privilege.html?utm_source=openai))
+
+3) Fuel cashback conditions (Shell/Caltex) for UOB premium cards resurface in deal roundups
+- What people are talking about
+  - Deal roundups during the period list UOB Reserve/Infinite/PriviMiles as offering 10% fuel cashback at Shell/Caltex per 800‑baht slip, but only if monthly non‑fuel spend reaches 50,000 baht (otherwise 3%). These roundups are being shared; we did not see fresh Pantip/Reddit threads debating the value in the last 30 days. ([thethaiger.com](https://thethaiger.com/th/news/1545739/?utm_source=openai))
+- Sentiment and heat
+  - Sentiment: neutral to wary (value is there but conditions are heavy).
+  - Buzzness: low (roundup mentions; little forum debate this month).
+- Representative quote (translated to English)
+  - “UOB Reserve/Infinite/PriviMiles: 10% fuel cashback at Shell/Caltex with 50,000‑baht other spend; otherwise 3%.” ([thethaiger.com](https://thethaiger.com/th/news/1545739/?utm_source=openai))
+
+What we did not see (in this 30‑day window)
+- Pantip: No new, high‑engagement threads specifically about UOB Thailand’s cards, app, or service issues during Mar 21–Apr 20, 2026. The most relevant Pantip UOB credit‑card comparison thread we could open was posted February 26, 2026 (outside this window). ([pantip.com](https://pantip.com/topic/43996773))
+- Reddit (r/Thailand, r/Bangkok): No fresh UOB‑specific complaint or review threads in the last 30 days. The big UOB Zenith/miles devaluation discussion is from January 2026 (outside this 30‑day scope). ([reddit.com](https://www.reddit.com/r/Thailand/comments/1q5ks08/uob_quietly_devalued_zenith_points_oct_2025_10/))
+- Money Buffalo: No UOB‑specific editorial in this 30‑day window turned up via site search.
+- Facebook groups “พวกเราคือผู้ประสบภัยจาก UOB” and “คนรักบัตรเครดิต”: Most posts are not publicly visible without joining; we could not verify group‑only discussions in this period.
+
+Implications for UOB Thailand (based on what’s active right now)
+- Share‑of‑voice in the past month skews to promos/benefits (dining, airport F&B, fuel) via blogs and finance news. Forum‑style, organic UGC about UOB Thailand was quiet in this 30‑day span.
+- Earlier pain points (miles/benefit changes; app reliability; fee‑waiver friction) did not surface in new, time‑bounded Pantip/Reddit threads this month, suggesting either lower incident volume or reduced visibility rather than resolution. Continued monitoring is needed.
+
+Notes and caveats
+- Facebook group content is largely closed; if you can grant analyst access to those groups, we can extract representative user quotes and engagement metrics.
+- If you want a fuller picture of sentiment on legacy issues (Zenith/ROP, TMRW app codes, fee‑waiver experiences), we recommend widening the window back to January–February 2026, where discussion volume is materially higher (e.g., the widely discussed Zenith devaluation thread). ([reddit.com](https://www.reddit.com/r/Thailand/comments/1q5ks08/uob_quietly_devalued_zenith_points_oct_2025_10/))
+
+Appendix: sources used in this 30‑day window
+- UOB x CRG buy‑1‑get‑1 “Happy Payday” press coverage (late‑March 2026). ([wealthythai.com](https://www.wealthythai.com/updates/banking/46000?utm_source=openai))
+- ChaiMiles airport dining privilege explainer (updated with 2026 partners; referenced in past month). ([chaimiles.com](https://www.chaimiles.com/p/uob-airport-privilege.html?utm_source=openai))
+- The Thaiger fuel‑promo roundup including UOB premium‑card conditions (last month). ([thethaiger.com](https://thethaiger.com/th/news/1545739/?utm_source=openai))
+- Context (outside window): Pantip comparison thread timestamp (Feb 26, 2026) and older Reddit miles‑devaluation discussion (Jan 2026), cited only to explain scarcity in this period. ([pantip.com](https://pantip.com/topic/43996773))
+
+If you’d like, I can:
+- Join/monitor the two Facebook groups (with client‑provided access) and pull quotes/engagement stats.
+- Expand the lookback to 60–90 days to capture the real user chatter that’s still shaping perception today.
