@@ -14,3 +14,4 @@ build/
 ".streamlit/" 
 "*.pyc" 
 .env
+"__pycache__/" 
