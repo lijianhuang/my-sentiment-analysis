@@ -4,7 +4,6 @@ Runs locally and on Streamlit Cloud.
 """
 
 import json
-from pathlib import Path
 
 import streamlit as st
 
@@ -12,12 +11,11 @@ st.set_page_config(page_title="Sentiment", page_icon="📡", layout="centered")
 
 SENTIMENT_COLOR = {"positive": "green", "negative": "red", "neutral": "gray", "mixed": "orange"}
 
-def load_report(path):
-    return json.loads(Path(path).read_text(encoding="utf-8"))
+import json
 
-report_path = "UOB_Malaysia_BUZZ_2026-04-17_1531_parsed.json"
+with open("UOB_Malaysia_BUZZ_2026-04-17_1531_parsed.json", encoding="utf-8") as f:
+    report = json.load(f)
 
-report = load_report(str(report_path))
 topics = report["topics"]
 
 # ── Header ───────────────────────────────────────────────────────────────────
