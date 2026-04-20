@@ -1,0 +1,219 @@
+{
+  "brand": "UOB Thailand",
+  "generated_at": "2026-04-20T11:21:33.613853",
+  "period_start": "2026-01-01",
+  "period_end": "2026-03-31",
+  "sources_monitored": [
+    "Pantip",
+    "Reddit",
+    "ChaiMiles",
+    "Money Buffalo"
+  ],
+  "total_topics": 5,
+  "topics": [
+    {
+      "id": 1,
+      "theme": "premium miles-card devaluation",
+      "title": "Miles/points devaluation fallout for Zenith, ROP, and Privimiles",
+      "hotness": 9,
+      "hotness_rationale": "This was the biggest Q1 thread: the Jan 6 Reddit post triggered sustained debate for days, with commenters comparing transfer math, benefit cuts, and migration options.",
+      "sentiment": "negative",
+      "sentiment_score": -0.82,
+      "summary": "Late-2025 changes to UOB's premium cards sparked a strong backlash in Q1, with users mourning worse transfer rates and reduced benefits while discussing whether to move to UOB KrisFlyer or non-UOB alternatives.",
+      "key_complaints": [
+        "Point transfer rates worsened sharply on Zenith, ROP, and Privimiles",
+        "Priority Pass, domestic access, and hotel-gym partner benefits were cut or reduced",
+        "Many commenters felt the overall value proposition collapsed"
+      ],
+      "key_praises": [
+        "UOB KrisFlyer World and World Elite looked like a cleaner migration path for some users",
+        "UOB Reserve and Infinite were still viewed as viable wealth-tier options"
+      ],
+      "representative_quotes": [
+        {
+          "text": "UOB ROP was also affected... it used to be 1 point = 1 mile; now it's 1.75/2. I'm switching to UOB KrisFlyer.",
+          "source": "https://www.reddit.com/r/Thailand/comments/1q5ks08/uob_quietly_devalued_zenith_points_oct_2025_10/"
+        },
+        {
+          "text": "2025 was a disaster for miles cards... it basically closed the era of UOB Zenith and UOB Privimiles; only UOB Reserve/Infinite really go on in 2026.",
+          "source": "https://www.chaimiles.com/2025/12/top-12-credit-cards-in-2026.html"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Reddit",
+          "url": "https://www.reddit.com/r/Thailand/comments/1q5ks08/uob_quietly_devalued_zenith_points_oct_2025_10/"
+        },
+        {
+          "platform": "ChaiMiles",
+          "url": "https://www.chaimiles.com/2025/12/top-12-credit-cards-in-2026.html"
+        }
+      ],
+      "tags": [
+        "miles",
+        "devaluation",
+        "premium cards",
+        "Zenith",
+        "ROP",
+        "Privimiles",
+        "KrisFlyer",
+        "benefit cuts"
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "customer service responsiveness",
+      "title": "Call-center and callback failures",
+      "hotness": 6,
+      "hotness_rationale": "A Pantip complaint gained attention because it was concrete, repeated, and surfaced during a period when users were already trying to sort card migrations.",
+      "sentiment": "negative",
+      "sentiment_score": -0.76,
+      "summary": "Pantip users described repeated calls to UOB's call center, promises of callbacks that never arrived, and frustration reaching a human agent.",
+      "key_complaints": [
+        "Repeated calls to the call center did not produce a human callback",
+        "Users felt support resolution was slow and hard to access",
+        "Escalation pathways appeared unclear or ineffective"
+      ],
+      "key_praises": [],
+      "representative_quotes": [
+        {
+          "text": "I've called 02-285-1555 at least 10 times since Jan 11; pressed '1' for a callback-but no human ever called back.",
+          "source": "https://pantip.com/topic/43940455?utm_source=openai"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Pantip",
+          "url": "https://pantip.com/topic/43940455?utm_source=openai"
+        }
+      ],
+      "tags": [
+        "call center",
+        "callback",
+        "Pantip",
+        "customer support",
+        "service friction",
+        "Thailand"
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "airport privilege changes",
+      "title": "Airport free food and drink changes for 2026",
+      "hotness": 6,
+      "hotness_rationale": "The update mattered to travelers planning trips, and the Starbucks/Burger King swap plus quota rules were repeatedly referenced in Q1 planning chatter.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.12,
+      "summary": "ChaiMiles flagged the 2026 airport dining rule update: Starbucks replaced Burger King, the monthly quota was capped, and overseas spend was required to keep the benefit active.",
+      "key_complaints": [
+        "Monthly entitlements were capped at 10,000",
+        "Users must make at least one overseas transaction within 30 days to keep the next entitlement",
+        "Benefits could run out late in the month"
+      ],
+      "key_praises": [
+        "Starbucks replaced Burger King for the airport-food benefit",
+        "Airport dining privileges still existed for eligible cardholders in 2026"
+      ],
+      "representative_quotes": [
+        {
+          "text": "In 2026 there are 3 participating stores; Starbucks replaces Burger King (from Feb 1, 2026). Rights are limited to 10,000 per month, and you must make at least one foreign transaction within 30 days to keep the next entitlement.",
+          "source": "https://www.chaimiles.com/p/uob-airport-privilege.html"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "ChaiMiles",
+          "url": "https://www.chaimiles.com/p/uob-airport-privilege.html"
+        }
+      ],
+      "tags": [
+        "airport lounge",
+        "travel perks",
+        "Starbucks",
+        "Burger King",
+        "quota",
+        "overseas spend",
+        "ChaiMiles"
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "wealth-tier card comparisons",
+      "title": "UOB Infinite in wealth-card comparisons",
+      "hotness": 5,
+      "hotness_rationale": "The Pantip comparison thread drew visible likes and shares and kept UOB Infinite in the mix with other top-tier cards, but it was more evaluative than viral.",
+      "sentiment": "mixed",
+      "sentiment_score": 0.24,
+      "summary": "Users compared UOB Infinite against other wealth-tier cards and focused on which benefits still matter in 2026, especially travel-related perks and upgrade paths.",
+      "key_complaints": [
+        "Raising AUM thresholds and tighter rules across banks reduced the appeal of wealth cards",
+        "Some benefits felt less compelling after the 2026 rule changes"
+      ],
+      "key_praises": [
+        "UOB Infinite was seen as strong for overseas travel and miles accumulation",
+        "It remained competitive on limo transfers, roaming, lounge access, and upgrades"
+      ],
+      "representative_quotes": [
+        {
+          "text": "For overseas travel, UOB Infinite and SCB First have strong points on miles and upgrades.",
+          "source": "https://pantip.com/topic/43955530"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Pantip",
+          "url": "https://pantip.com/topic/43955530"
+        }
+      ],
+      "tags": [
+        "UOB Infinite",
+        "wealth card",
+        "Pantip",
+        "travel perks",
+        "miles",
+        "lounge access",
+        "AUM thresholds"
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "secured card access for foreigners",
+      "title": "FD-collateral UOB cards for foreigners without a work permit",
+      "hotness": 4,
+      "hotness_rationale": "This was a practical Q&A with several replies rather than a broad viral discussion, but it consistently surfaced in expat search behavior.",
+      "sentiment": "neutral",
+      "sentiment_score": 0.0,
+      "summary": "A Reddit discussion confirmed that UOB can issue secured cards tied to fixed deposits for some foreigners, making it a workable entry point for expats without a conventional credit file.",
+      "key_complaints": [
+        "Applicants still need collateral and a deposit-backed credit limit",
+        "Eligibility and process are not obvious to newcomers"
+      ],
+      "key_praises": [
+        "UOB offers a path to get a card without a work permit",
+        "The secured-card route is useful for expats building local credit access"
+      ],
+      "representative_quotes": [
+        {
+          "text": "Yeah, I know a bunch-Bangkok Bank does it and UOB.",
+          "source": "https://www.reddit.com/r/Thailand/comments/1q2hzso/as_a_foreigner_in_thailand_without_a_work_permit/"
+        }
+      ],
+      "sources": [
+        {
+          "platform": "Reddit",
+          "url": "https://www.reddit.com/r/Thailand/comments/1q2hzso/as_a_foreigner_in_thailand_without_a_work_permit/"
+        }
+      ],
+      "tags": [
+        "foreigners",
+        "secured card",
+        "fixed deposit",
+        "expats",
+        "credit access",
+        "Reddit",
+        "Thailand"
+      ]
+    }
+  ],
+  "analyst_notes": "Q1-2026 discussion about UOB Thailand was dominated by backlash to late-2025 premium-card devaluations, especially miles-transfer changes and benefit cuts on Zenith, ROP, and Privimiles. Service-access complaints on Pantip added a second trust issue, while travel perks and wealth-tier comparisons kept UOB Infinite and airport privileges in the conversation. Public chatter suggests Thai cardholders are shifting from pure miles chasing toward pragmatic value, cashback, and clearer utility."
+}
