@@ -15,7 +15,7 @@ SENTIMENT_COLOR = {"positive": "green", "negative": "red", "neutral": "gray", "m
 def load_report(path):
     return json.loads(Path(path).read_text(encoding="utf-8"))
 
-report_path = Path(__file__).parent / "UOB_Malaysia_BUZZ_2026-04-17_1531_parsed.json"
+report_path = "UOB_Malaysia_BUZZ_2026-04-17_1531_parsed.json"
 
 report = load_report(str(report_path))
 topics = report["topics"]
