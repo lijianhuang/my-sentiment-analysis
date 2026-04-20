@@ -12,7 +12,6 @@ st.set_page_config(page_title="Sentiment", page_icon="📡", layout="centered")
 
 SENTIMENT_COLOR = {"positive": "green", "negative": "red", "neutral": "gray", "mixed": "orange"}
 
-@st.cache_data
 def load_report(path):
     return json.loads(Path(path).read_text(encoding="utf-8"))
 
